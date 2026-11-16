@@ -2,6 +2,8 @@
 
 Страница для просмотра запусков AI-агентов. Тестовое задание на React, TypeScript, Vite и SCSS Modules. Данные загружаются из локального mock-сервиса.
 
+[Открыть демо](https://runforge-omega.vercel.app/)
+
 ## Запуск
 
 Нужен Node.js 22.12+ или 24 LTS.
