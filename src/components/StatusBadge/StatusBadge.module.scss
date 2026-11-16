@@ -1,0 +1,34 @@
+.badge {
+	display: inline-flex;
+	align-items: center;
+	font-size: 10px;
+	padding: 5px 8px;
+	border: 1px solid;
+	border-radius: 5px;
+	white-space: nowrap;
+	font-weight: 500;
+}
+
+.running {
+	background: #edf2fa;
+	border-color: #dae5f2;
+	color: #3b638e;
+}
+
+.queued {
+	background: #f1f1ed;
+	border-color: #e2e3dc;
+	color: #6c7163;
+}
+
+.succeeded {
+	background: #edf4eb;
+	border-color: #dae8d5;
+	color: #527747;
+}
+
+.failed {
+	background: #fbefeb;
+	border-color: #f1dcd3;
+	color: #a75d48;
+}
